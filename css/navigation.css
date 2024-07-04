@@ -1,0 +1,26 @@
+.navigation {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.5rem;
+}
+
+.men {
+  text-decoration: none;
+  color: black;
+}
+
+.women {
+  text-decoration: none;
+  color: black;
+}
+
+.kid {
+  text-decoration: none;
+  color: black;
+}
+
+.customize {
+  text-decoration: none;
+  color: black;
+}
