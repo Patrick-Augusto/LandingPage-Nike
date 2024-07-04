@@ -26,7 +26,7 @@ Este projeto é uma landing page desenvolvida para a divulgação do tênis Nike
 
 ## Estrutura do Projeto
 
-
+```
 . ├── css/ 
 │ ├── descricao.css 
 │ ├── foto.css 
@@ -43,7 +43,7 @@ Este projeto é uma landing page desenvolvida para a divulgação do tênis Nike
 ├── LICENSE 
 ├── README.md 
 └── style.css
-
+```
 
 ## Como Contribuir
 
